@@ -1,9 +1,12 @@
 import './App.css';
+import Login from './components/Login';
+import Profile from './components/Profile';
 
 const  App = ()  => {
   return (
     <div className="App">
-      <h1>Redux</h1>
+      <Profile />
+      <login />
     </div>
   );
 }
