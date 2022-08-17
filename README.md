@@ -11,8 +11,8 @@ In the project directory, you can run:
 ## Redux 
 Redux allows 
 
-- App
-- login
-- profile
+- addUser
+- deleteUser
+- updateUser
 
 ### Whats Login
